@@ -1,5 +1,6 @@
-package com.example.unimanagebackend.unimanage.model;
+package com.example.unimanagebackend.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
 import java.math.BigDecimal;
 

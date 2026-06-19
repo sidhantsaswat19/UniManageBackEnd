@@ -1,7 +1,7 @@
-package com.example.unimanagebackend.unimanage.controller;
+package com.example.unimanagebackend.controller;
 
-import com.example.unimanagebackend.unimanage.model.Course;
-import com.example.unimanagebackend.unimanage.repository.CourseRepository;
+import com.example.unimanagebackend.model.Course;
+import com.example.unimanagebackend.repository.CourseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;

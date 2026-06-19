@@ -1,4 +1,4 @@
-package com.example.unimanagebackend.unimanage.model;
+package com.example.unimanagebackend.model;
 
 import jakarta.persistence.*;
 

@@ -1,7 +1,7 @@
-package com.example.unimanagebackend.unimanage.controller;
+package com.example.unimanagebackend.controller;
 
-import com.example.unimanagebackend.unimanage.model.Student;
-import com.example.unimanagebackend.unimanage.repository.StudentRepository;
+import com.example.unimanagebackend.model.Student;
+import com.example.unimanagebackend.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
